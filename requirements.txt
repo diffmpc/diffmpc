@@ -1,0 +1,8 @@
+jax
+jaxlib
+numpy>=1.17.4
+pytest
+pyyaml
+tqdm
+matplotlib
+lark-parser
